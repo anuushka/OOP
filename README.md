@@ -13,13 +13,11 @@ Remarks:
 3. Use unordered map instead of hash to avoid inserting same elements in the map --> Prevent duplicate elements.
 
 Lab 2
+Revised Shop --> shop final ver 2
 
 Remarks:
-
 1.Use encapsulation.
-
 2. Randomly generate ID. --> random int
-
 3. Avoid entering ID for function min product. Create Shop manager to automatically update list of shops and products. --> Nested classes
 
 

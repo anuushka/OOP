@@ -15,6 +15,7 @@ Remarks:
 
 Lab 2
 Remarks:
+
 1.Use encapsulation.
 
 2. Randomly generate ID. --> random int

@@ -15,8 +15,12 @@ Remarks:
 Lab 2
 
 Remarks:
-1.Use nested classes and encapsulation.
-2. Randomly generate ID.
+
+1.Use encapsulation.
+
+2. Randomly generate ID. --> random int
+
+3. Avoid entering ID for function min product. Create Shop manager to automatically update list of shops and products. --> Nested classes
 
 
 

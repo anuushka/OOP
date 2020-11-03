@@ -13,8 +13,7 @@ Revisions:
 Lab1
 Remarks:
 1. Don't use atoi and atof --> use stoll stod --> 'cause they can handle exceptions
-2. Don't use hash or write hashing pragmatically --> Use std --> Don't use hash for INI parsing.
-3. Use unordered map instead of hash to avoid inserting same elements in the map --> Prevent duplicate elements.
+2. Don't use hash or write hashing pragmatically --> Use std
 
 Lab 2
 Remarks:

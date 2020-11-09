@@ -32,5 +32,5 @@ Remarks:
 
 1.Either create separate classes for all vehicles or create classes Air and Land 'cause they have similar function or structure. Both is okay.
 
-2. In future cases, where ALL vehicles functions are different -> Create classes for each separate type of vehicle.
+2. In future cases, where ALL vehicles functions are different -> Create classes for each separate type of vehicle (Inheritance & Polymorphism).
 

@@ -7,6 +7,9 @@ http://rcg.group.shef.ac.uk/courses/python/CIC6010b/CI6010b-Intermediate_Python_
 Advanced OOP Python:
 http://rcg.group.shef.ac.uk/courses/python/CIC6011a/CIC6011a-Advanced_Python_Programming_OOP.pdf
 
+Design Patterns:
+https://refactoring.guru/design-patterns/python
+
 
 Revisions: 
 
